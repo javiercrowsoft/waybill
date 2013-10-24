@@ -28,3 +28,7 @@ local.properties
 
 # app engine temp files
 app/waybill/tmp
+app/build.xml
+app/cairo_ec2
+app/cairo/conf/production.conf
+app/localdev.cache
